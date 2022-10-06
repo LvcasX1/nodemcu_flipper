@@ -7,7 +7,7 @@ For this project i'll be using [RogueMaster](https://github.com/RogueMaster/flip
 
 ## Installing the firmware on your NodeMCU
 
-First you have to flash your NodeMCU with [Sequoian's](https://github.com/SequoiaSan) firmware. You can do it from [here](https://sequoiasan.github.io/FlipperZero-Wifi-ESP8266-Deauther-Module/) using Chrome.
+First you have to flash your NodeMCU with [SequoiaSan's](https://github.com/SequoiaSan) firmware. You can do it from [here](https://sequoiasan.github.io/FlipperZero-Wifi-ESP8266-Deauther-Module/) using Chrome.
 
 <br/>
 
